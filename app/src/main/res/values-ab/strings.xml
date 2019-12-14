@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dortislem</string>
+    <string name="action_settings">ene ayarlar</string>
+    <string name="btnBolText">ene bol</string>
+    <string name="btnCarpText">eneçarp</string>
+    <string name="btnCikarText">ene ekle</string>
+    <string name="btnToplaText">eneekle</string>
+    <string name="hello_world">ene merheba</string>
+    <string name="txtSayi1Text">ene ilk sayi</string>
+    <string name="txtSayi2Text">ene ikincisayi</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dortislem</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnToplaText">ADD</string>
+    <string name="btnCikarText">SUB</string>
+    <string name="btnCarpText">MULT</string>
+    <string name="btnBolText">DIV</string>
+    <string name="txtSayi1Text">First Number</string>
+    <string name="txtSayi2Text">Second Number</string>
+
+</resources>

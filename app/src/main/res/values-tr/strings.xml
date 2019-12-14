@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dortislem</string>
+
+    <string name="hello_world">Merhaba Dümnya!</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="btnToplaText">+</string>
+    <string name="btnCikarText">-</string>
+    <string name="btnCarpText">*</string>
+    <string name="btnBolText">/</string>
+    <string name="txtSayi1Text">Birinci Sayı</string>
+    <string name="txtSayi2Text">İkinci Sayı</string>
+
+</resources>
